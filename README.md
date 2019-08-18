@@ -1,7 +1,7 @@
 # Privacy Policy
 Effective date: Tuesday July 30 ,2019
 
-Tajr ("us", "we", or "our") operates the Pro4Store mobile application (the "Service").
+Tajr ("us", "we", or "our") operates the Tajr mobile application (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Halan is based on the Free Privacy Policy Template Website.
 
