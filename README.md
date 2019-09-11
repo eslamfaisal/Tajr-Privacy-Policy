@@ -1,100 +1,58 @@
 # Privacy Policy
-Effective date: Tuesday July 30 ,2019
+Eslam Faisal built the Tajr app as a Free app. This SERVICE is provided by Eslam Faisal at no cost and is intended for use as is.
 
-Tajr ("us", "we", or "our") operates the Tajr mobile application (the "Service").
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Halan is based on the Free Privacy Policy Template Website.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Tajr unless otherwise defined in this Privacy Policy.
 
-Information Collection And Use
-We collect several different types of information for various purposes to provide and improve our Service to you ,like 
+Information Collection and Use
 
-android.permission.CALL_PHONE, android.permission.READ_PHONE_STATE, android.permission.WRITE_EXTERNAL_STORAGE, android.permission.RECORD_AUDIO, android.permission.READ_EXTERNAL_STORAGE, android.permission.INTERNET, android.permission.READ_CALL_LOG, android.permission.WAKE_LOCK, android.permission.ACCESS_WIFI_STATE, android.permission.SYSTEM_ALERT_WINDOW, android.permission.VIBRATE, android.permission.PROCESS_OUTGOING_CALLS, android.permission.READ_CONTACTS, android.permission.CAMERA, com.greyeg.tajr.permission.C2D_MESSAGE, com.google.android.c2dm.permission.RECEIVE, android.permission.ACCESS_NETWORK_STATE, android.permission.RECEIVE_BOOT_COMPLETED, com.sec.android.provider.badge.permission.READ, com.sec.android.provider.badge.permission.WRITE, com.htc.launcher.permission.READ_SETTINGS, com.htc.launcher.permission.UPDATE_SHORTCUT, com.sonyericsson.home.permission.BROADCAST_BADGE, com.sonymobile.home.permission.PROVIDER_INSERT_BADGE, com.anddoes.launcher.permission.UPDATE_COUNT, com.majeur.launcher.permission.UPDATE_BADGE, com.huawei.android.launcher.permission.CHANGE_BADGE, com.huawei.android.launcher.permission.READ_SETTINGS, com.huawei.android.launcher.permission.WRITE_SETTINGS, android.permission.READ_APP_BADGE, com.oppo.launcher.permission.READ_SETTINGS, com.oppo.launcher.permission.WRITE_SETTINGS, me.everything.badger.permission.BADGE_COUNT_READ, me.everything.badger.permission.BADGE_COUNT_WRITE, com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to android.permission.CALL_PHONE, android.permission.MODIFY_PHONE_STATE, android.permission.READ_PHONE_STATE, android.permission.WRITE_EXTERNAL_STORAGE, android.permission.RECORD_AUDIO, android.permission.READ_EXTERNAL_STORAGE, android.permission.INTERNET, android.permission.READ_CALL_LOG, android.permission.WAKE_LOCK, android.permission.ACCESS_WIFI_STATE, android.permission.SYSTEM_ALERT_WINDOW, android.permission.VIBRATE, android.permission.PROCESS_OUTGOING_CALLS, android.permission.READ_CONTACTS, android.permission.CAMERA, com.greyeg.tajr.permission.C2D_MESSAGE, com.google.android.c2dm.permission.RECEIVE, android.permission.ACCESS_NETWORK_STATE, android.permission.RECEIVE_BOOT_COMPLETED, com.sec.android.provider.badge.permission.READ, com.sec.android.provider.badge.permission.WRITE, com.htc.launcher.permission.READ_SETTINGS, com.htc.launcher.permission.UPDATE_SHORTCUT, com.sonyericsson.home.permission.BROADCAST_BADGE, com.sonymobile.home.permission.PROVIDER_INSERT_BADGE, com.anddoes.launcher.permission.UPDATE_COUNT, com.majeur.launcher.permission.UPDATE_BADGE, com.huawei.android.launcher.permission.CHANGE_BADGE, com.huawei.android.launcher.permission.READ_SETTINGS, com.huawei.android.launcher.permission.WRITE_SETTINGS, android.permission.READ_APP_BADGE, com.oppo.launcher.permission.READ_SETTINGS, com.oppo.launcher.permission.WRITE_SETTINGS, me.everything.badger.permission.BADGE_COUNT_READ, me.everything.badger.permission.BADGE_COUNT_WRITE, com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE. The information that I request will be retained on your device and is not collected by me in any way.
 
-but we collect 
-android.permission.PROCESS_OUTGOING_CALLS,
-and android.permission.READ_CALL_LOG
-permissions for manage outgoing calls that that you are make and save it in database to see it later for easy user experience
-and we do not use this permissions for any other purpose
+The app does use third party services that may collect information used to identify you.
 
-Types of Data Collected
-Personal Data
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+Link to privacy policy of third party service providers used by the app
 
-call logs 
-contacts
-Email address
-Cookies and Usage Data
-Usage Data
-When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data ("Usage Data").
+Google Play Services
+Firebase Analytics
+Log Data
 
-Tracking & Cookies Data
-We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+Cookies
 
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-Examples of Cookies we use:
-
-Session Cookies. We use Session Cookies to operate our Service.
-Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
-Security Cookies. We use Security Cookies for security purposes.
-Use of Data
-Tajr uses the collected data for various purposes:
-
-To provide and maintain the Service
-To notify you about changes to our Service
-To allow you to participate in interactive features of our Service when you choose to do so
-To provide customer care and support
-To provide analysis or valuable information so that we can improve the Service
-To monitor the usage of the Service
-To detect, prevent and address technical issues
-Transfer Of Data
-Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
-
-If you are located outside Egypt and choose to provide information to us, please note that we transfer the data, including Personal Data, to Egypt and process it there.
-
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
-
-Tajr will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
-
-Disclosure Of Data
-Legal Requirements
-Tajr may disclose your Personal Data in the good faith belief that such action is necessary to:
-
-To comply with a legal obligation
-To protect and defend the rights or property of Tajr
-To prevent or investigate possible wrongdoing in connection with the Service
-To protect the personal safety of users of the Service or the public
-To protect against legal liability
-Security Of Data
-The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
 Service Providers
-We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
-These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+I may employ third-party companies and individuals due to the following reasons:
 
-Links To Other Sites
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+To facilitate our Service;
+To provide the Service on our behalf;
+To perform Service-related services; or
+To assist us in analyzing how our Service is used.
+I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+Security
 
-Children's Privacy
-Our Service does not address anyone under the age of 18 ("Children").
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
-We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+Links to Other Sites
 
-Changes To This Privacy Policy
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+Children’s Privacy
 
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+
+Changes to This Privacy Policy
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
 Contact Us
-If you have any questions about this Privacy Policy, please contact us:
 
-By email: eslam.faisal.ef@gmail.com
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at eslam.faisal.ef@gmail.com.
